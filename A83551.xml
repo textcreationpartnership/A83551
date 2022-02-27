@@ -1,0 +1,184 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament: one commanding that no officer or souldier either by sea or land, shall give any quarter to any Irishman, or to any papist borne in Ireland, which shall be taken in armes against the Parliament in England. The other for the better observation of the monethly fast, thorowout the Kingdome of England and Dominion of Wales: together with some directions to the officers within their severall liberties, diligently to make search for, and take notice of all persons that either follow their work, or sit in taverns or victualling houses on that day. Die Jovis 24. Octob. 1644. Ordered by the Lords assembled in Parliament, that these ordinances be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83551</idno>
+            <idno type="STC">Wing E2409</idno>
+            <idno type="STC">Thomason E14_7</idno>
+            <idno type="STC">ESTC R1039</idno>
+            <idno type="EEBO-CITATION">99858831</idno>
+            <idno type="PROQUEST">99858831</idno>
+            <idno type="VID">110890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110890)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E14[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament: one commanding that no officer or souldier either by sea or land, shall give any quarter to any Irishman, or to any papist borne in Ireland, which shall be taken in armes against the Parliament in England. The other for the better observation of the monethly fast, thorowout the Kingdome of England and Dominion of Wales: together with some directions to the officers within their severall liberties, diligently to make search for, and take notice of all persons that either follow their work, or sit in taverns or victualling houses on that day. Die Jovis 24. Octob. 1644. Ordered by the Lords assembled in Parliament, that these ordinances be forthwith printed and published. Joh. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>26. Octob. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110890:1" rendition="simple:additions"/>
+            <p>Two ORDINANCES OF THE LORDS and COMMONS Aſſembled in PARLIAMENT: One Commanding that no Officer or Soul<g ref="char:EOLhyphen"/>dier either by Sea or Land, ſhall give any Quarter to any Iriſhman, or to any Papiſt borne in <hi>Ireland,</hi> which ſhall be taken in Armes againſt the Parliament in <hi>England.</hi>
+            </p>
+            <p>The other For the better obſervation of the monethly Faſt, thorowout the Kingdome of <hi>England</hi> and Dominion of <hi>Wales:</hi> Together with ſome Directions to the Officers with<g ref="char:EOLhyphen"/>in their ſeverall Liberties, diligently to make ſearch for, and take notice of all perſons that either follow their work, or ſit in Taverns or Victualling houſes on that day.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>Die Jovis 24. Octob. 1644.</date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <hi>ORdered by the Lords aſſembled in Parliament, That theſe Or<g ref="char:EOLhyphen"/>dinances be forthwith printed and publiſhed.</hi>
+                  </p>
+                  <closer>
+                     <signed>Joh. Brown Cler. Parliamentorum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>London printed for <hi>Iohn Wright</hi> in the old Bayley. 26. Octob. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ordinance">
+            <pb facs="tcp:110890:2"/>
+            <pb n="1" facs="tcp:110890:2"/>
+            <head>Die Iovis 24. Octob. 1644.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords and Commons aſſembled in the Parliament of England doe Declare, That no Quarter ſhall be given hereafter to any Iriſhman, nor to any Papiſts whatſoever borne in <hi>Ireland,</hi> which ſhall be taken in Hoſtillitie againſt the Parliament: either upon the Sea or within this Kingdome, or Dominion of <hi>Wales:</hi> And therefore doe Order and Ordaine, That the Lord Generall, Lord Admirall, and all other Officers and Commanders both by Sea and Land ſhall except all Iriſhmen, and all Papiſts borne in <hi>Ireland.</hi> out of all Capitulations, Agree<g ref="char:EOLhyphen"/>ments, or Compoſitions hereafter to be made with the Enemy, and ſhall upon the taking of every ſuch Iriſhman or Papiſt born in <hi>Ireland,</hi> as aforeſaid, forthwith put every ſuch Perſon to death. And it is further Ordered and Ordain<g ref="char:EOLhyphen"/>ed, That the Lord Generall Lord Admiral, and
+<pb n="2" facs="tcp:110890:3"/> the Committees of the ſeverall Counties, do give ſpeedy notice hereof to all ſubordinate Officers and Commanders by Sea and Land reſpective<g ref="char:EOLhyphen"/>ly who are hereby required to uſe their utmoſt care and circumſpection that this Ordinance be duly executed. And laſtly, the Lords and Commons doe Declare, that every Officer and Commander by Sea or Land, that ſhall be re<g ref="char:EOLhyphen"/>miſſe or negligent in obſerving the Tenour of this Ordinance, ſhall be reputed a favourer of that bloody Rebellion of <hi>Ireland,</hi> and ſhall be liable to ſuch condigne puniſhment as the Iu<g ref="char:EOLhyphen"/>ſtice of both Houſes of Parliament ſhall inflict upon him.</p>
+         </div>
+         <div type="ordinance">
+            <head>An Ordinance of the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment Aſſembled, For the better obſervation of the monethly Faſt. 24 Aug. 1642.</head>
+            <p>VVHereas the Kings moſt Excellent Maieſty, upon the requeſt of the Lords and Com<g ref="char:EOLhyphen"/>mons in this preſent Parliament aſſembled, and by and with their advice and conſent, conſidering the lamen<g ref="char:EOLhyphen"/>table and diſtreſſed condition of his good Subiects in the Kingdome of <hi>Ireland;</hi> (that there might be a gene<g ref="char:EOLhyphen"/>rall humiliation of all the eſtates of this Kingdome be<g ref="char:EOLhyphen"/>fore
+<pb n="3" facs="tcp:110890:3"/> Almighty God in Faſting and Prayer) was graci<g ref="char:EOLhyphen"/>ouſly pleaſed to Command the keeping of a monethly Faſt; and to the end that all perſons might the better take notice thereof (and to leave ſuch without excuſe, as ſhould not duly keep and obſerve the ſame) did afterward by his Proclamation of the 8 of <hi>January</hi> 1641. appoint that the ſame ſhould be generally, publike<g ref="char:EOLhyphen"/>ly, and ſolmnly holden and kept, as well by abſti<g ref="char:EOLhyphen"/>nence from Food, as by publike Prayers, Preach<g ref="char:EOLhyphen"/>ing, and Hearing of the Word of God, and other Religious and holy Duties in all Cathedrals, Col<g ref="char:EOLhyphen"/>legiate, and Pariſh Churches, and Chappels within the Kingdom of <hi>England,</hi> &amp; Dominion of <hi>Wales</hi> (with<g ref="char:EOLhyphen"/>out any exception) on the laſt Wedneſday of every Moneth, to continue during the troubles in the ſaid Kingdom of <hi>Ireland:</hi> All which His Maieſty did ſtrait<g ref="char:EOLhyphen"/>ly charge and command ſhould be reverently and de<g ref="char:EOLhyphen"/>voutly performed by all His Subiects, as they deſire the bleſſing of Almighty God, and would avoid his heavy indignation againſt this Land and People; and upon paine of ſuch puniſhments as may iuſtly be inſti<g ref="char:EOLhyphen"/>cted upon all ſuch as ſhall confe<gap reason="illegible" resp="#MURP" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e or neglect ſo Reli<g ref="char:EOLhyphen"/>gious a worke and duty.</p>
+            <p>And whereas the Lords and Commons in both Hou<g ref="char:EOLhyphen"/>ſes of Parliament, have received divers Informati<g ref="char:EOLhyphen"/>ons from ſeverall parts of this Kingdome and Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales,</hi> of the great neglect of the due obſerva<g ref="char:EOLhyphen"/>tion and keeping of the ſaid Faſt upon the dayes ap<g ref="char:EOLhyphen"/>pointed, and of the prophanations of the ſame by ma<g ref="char:EOLhyphen"/>ny irreligious, ill affected, looſe, and ſcandalous per<g ref="char:EOLhyphen"/>ſons, as we<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of the Clergy as others, who are ſo farre from afflicting their ſoules, and looſing the bands of
+<pb n="4" facs="tcp:110890:4"/> wickedneſſe, as that they provoke the wrath of Almigh<g ref="char:EOLhyphen"/>ty God, and make ſo pious a meanes to procure his bleſſings, the occaſion of greater Iudgements.</p>
+            <p>For the prevention whereof for the time to come, the Lords and Commons doe Order, Declare, Ordaine, that in all and every the Cathedrals, Collegiate, and Pariſh Churches, and Chappels within the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> (without any ex<g ref="char:EOLhyphen"/>cepti<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n) upon every Lords day, next and immediately before any the daies appointed for the ſaid publike Faſt, the Parſon, Vicar, Curate, or Miniſter, that upon that day ſhall Officiate, or exerciſe in any of the ſaid Cathedrals, Collegiate, Pariſh Churches, or Chap<g ref="char:EOLhyphen"/>pels, ſhall give publike notice in every of the ſaid Ca<g ref="char:EOLhyphen"/>thedrals, Collegiate, Pariſh Churches, or Chappels reſpectively, of the Faſt day next enſuing immediately after Sermon or Prayer ended in the forenoon before the Congregation be diſmiſſed, earneſtly exhorting and perſwading all the people to the ſolemne due keeping and religious obſervation of the whole day appointed for the ſaid Faſt, and that they would repaire to ſome Church or Chappell, there diligently and reve<g ref="char:EOLhyphen"/>rently to attend all ſuch holy Duties as ſhall be uſed in the obſervance of the ſame; that they forbeare to uſe all manner of Sports and Paſtimes whatſoever, and their ordinary Trades and Callings upon the ſaid day, as well Carriers, Waggoners, Carters, Waynmen, Drovers, Butchers, Huckſters, Shop-keepers, La<g ref="char:EOLhyphen"/>bourers, or any others uſing any Art, Trade, Myſtery, or Manual Occupation whatſoever, and that all Wintners, Taverners, Alehouſe-keepers, and keepers of Victualling-houſes, doe forbeare to keep open their Doors, Bulks, or Shops, or to ſell or utter (except in
+<pb n="5" facs="tcp:110890:4"/> caſes of extr<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me neceſſity) any Wine, Beere, Ale, or Victuall, till the publike Exerciſes and religious <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<g ref="char:EOLhyphen"/>ties of that day in the reſpective Cathedrals, Coll<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gi<g ref="char:EOLhyphen"/>ate, Pariſh Churches and Chappels be paſt and over.</p>
+            <p>And laſtly, all and every the Iuſtices of the Peace, Maiors, Bayliffes, Conſtables, Church wardens, and other Officers inhabiting or reſiding within the li<g ref="char:EOLhyphen"/>mits or precincts of any ſuch Cathedrall, Coll<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>giate, Pariſh Church or Chappell, are hereby required to take ſpeciall notice as well of ſuch Parſon, Vicar, Cu<g ref="char:EOLhyphen"/>rate, or other Miniſter that ought to officiate in any of the ſaid Cathedrals, Collegiate, and Pariſh Chur<g ref="char:EOLhyphen"/>ches or Chappels, upon any ſuch day appointed for the ſaid Faſt, that ſhall either refuſe or neglect to doe the ſame, or not doe or cau<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the ſame to be done in that re<g ref="char:EOLhyphen"/>ligious and ſolemne manner as it ought to be, or that ſhall refuſe to give notice of the Faſt day at the time, and in manner as aforeſaid, and forthwith to returne their names, and the names of all ſuch (from time to time) as ſhall wilfully offend herein, in contempt of the Lawes, His Majeſty, and both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, unto ſome one or more of the Knights, Citizens, or Burgeſſes that ſerve for the County where ſuch of<g ref="char:EOLhyphen"/>fence is or ſhall be committed, that ſome ſpeedy courſe may be taken for the ſevere puniſhing of ſuch as ſhall offend herein, according to the Lawes.</p>
+            <closer>
+               <signed>Jo. Brown Cler. Parliamentorum.</signed>
+            </closer>
+            <postscript>
+               <pb n="6" facs="tcp:110890:5"/>
+               <p>VVHereas the Lords and Commons in Parliament, have made an Ordinance for the more ſtrict and ſolemne keeping of the dayes of publike Faſt, which are not by all perſons duly obſerved, even in theſe times of publike Calamity, to the great diſhonor of God, and the contempt of the Authority of both Houſes of Parliament.</p>
+               <p>Now that more particular notice may be given to all ſuch that ſhall offend herein, before any exemplary puniſhment be inflicted upon them, It is Ordered by the Commons now Aſſembled in Parliament, that all Conſtables (or their Depu<g ref="char:EOLhyphen"/>ties ſhall the day before every publike Faſt, repaire to every houſe within their ſeverall and reſpective Liberties, and charge all perſons, that they ſtrictly obſerve the Faſt, accor<g ref="char:EOLhyphen"/>ding to the directions in the ſaid Ordinance.</p>
+               <p>And they ſhall upon the ſaid dayes of the publike Faſt, walke through their ſaid Liberties, diligently ſerching for, and taking notice of all perſons, who either by following the worke of their calling, or ſitting in Tavernes, Victualing, or Alehouſes<g ref="char:punc">▪</g> or any other wayes ſhall not duly obſerve the ſame, and they are hereby required, to returne the names of all ſuch perſons as they ſhall finde ſo offending, as alſo ſuch Informations as they ſhall receive againſt any other perſons within their Liberties guilty of the leaſt offence unto the Committee for Examinations that ſo they may be proceeded againſt for the contempt of the ſaid Ordinance, and all Conſtables are to obſerve theſe directions, from time to time, ſo long as the ſaid Publike Faſt ſhall be kept, without expecting any further Order.</p>
+               <closer>
+                  <signed>H. Elſynge Cler. Parl. D. Com.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
